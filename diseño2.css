@@ -1,0 +1,126 @@
+.color1 {color: #A8763E;}
+.color2 {color: #F7F3E3;}
+.color3 {color: #9D9993;}
+.color4 {color: #6F1A07;}
+.color5 {color: #2B2118;}
+
+body{position: absolute;
+    width: 400px;
+    height: 440px;
+
+    background: url(https://images.unsplash.com/photo-1647915167676-9c5c525fc07f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header{position: absolute;
+    width: 347px;
+    height: 1000px;
+    left: 750px;
+    top: 12px;}
+
+.nombre{position: absolute;
+    left: 80px;
+    top: 0px;
+    font-style: normal;
+    font-weight: normal;
+    font-family: serif;
+    font-size: 36;
+}
+
+.eslogan{position: absolute;
+    left: 120px;
+    top: 50px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-family: serif;}
+    
+
+.fondotexto1{position: absolute;
+    width: 600px;
+    height: 150px;
+    left: -300px;
+    top: 0px;
+    
+    background: #9D9993;
+    border-radius: 0px 0px;}
+
+.fotografia{position: absolute;
+    left: -700px;
+    top: 50px;
+    width: 250px;
+    height: 250px;
+    border-radius: 120px 120px;}
+
+article{position: relative;
+    left: 40px;
+    top: 160px;
+
+    font-size: 18px;
+    line-height: 40px;}
+
+.taller{position: relative;
+    left: 100px;
+    top: 0px;
+    font-family: serif}
+
+.con{position: relative;
+    left: 90px;
+    top: 0px;
+    font-family: serif}
+
+.ret{position: relative;
+    left: 120px;
+    top: 0px;
+    font-family: serif}
+
+.tarjetatalleres{position: relative;
+    width: 300px;
+    height: 240px;
+    left: 300px;
+    top: 400px;
+    
+    background: #A8763E;
+    border-radius: 0px 0px;}
+
+.tarjetaconsultas{position: relative;
+    width: 300px;
+    height: 240px;
+    left: 750px;
+    top: 137.5px;
+    
+    background: #A8763E;
+    border-radius: 0px 0px;}
+
+.tarjetaretos{position: relative;
+    width: 300px;
+    height: 240px;
+    left: 1200px;
+    top: -127.35px;
+    
+    background: #A8763E;
+    border-radius: 0px 0px;}
+
+
+.tarjetafooter{position: relative;
+    width: 350px;
+    height: 100px;
+    left: 50px;
+    top: 100px;
+    
+    background: #A8763E;
+    border-radius: 0px 0px;
+
+    font-size: 20;
+
+}  
+
+footer{position: relative;
+    left: 12px;
+    top: 200px}
+
+
+
+
+
